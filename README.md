@@ -1,2 +1,2 @@
 # odin-recipes
-A website containing different recipes. Done as a project to showcase HTML skills, part of the The Odin Project curriculum.
+A website containing different italian recipes. Done as a project to showcase basic HTML skills, part of the The Odin Project curriculum.

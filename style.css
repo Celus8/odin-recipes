@@ -1,0 +1,39 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #a7d9e6
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h1, h2 {
+    font-family:'Times New Roman', Times, serif;
+}
+
+.maintitle {
+    text-align: center;
+}
+
+.link {
+    font-size: 20px;
+    background-color: #eca452;
+    font-weight: 700;
+    text-align: center;
+}
+
+p {
+    background-color: #eca452;
+}
+
+.italic {
+    background-color: transparent;
+}
